@@ -107,7 +107,7 @@ h3 {
     height: 95vh;
     /* border: 2px solid red; */
     background: linear-gradient(rgb(0, 0, 0, 0.5), rgb(0, 0, 0, 0.5)), url('../img/pexels-sebastian-arie-voortman-214575.jpg');
-    background-position: center;
+    background-position: left;
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -527,6 +527,7 @@ h3 {
         background: linear-gradient(rgb(0, 0, 0, 0.5), rgb(0, 0, 0, 0.5)), url('../img/pexels-sebastian-arie-voortman-214575.jpg');
         background-position: center;
         background-size: cover;
+        width: 500px;
         background-repeat: no-repeat;
     }
 
