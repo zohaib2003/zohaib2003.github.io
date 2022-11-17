@@ -524,7 +524,7 @@ h3 {
     .header {
         height: 95vh;
         /* border: 2px solid red; */
-        background: linear-gradient(rgb(0, 0, 0, 0.5), rgb(0, 0, 0, 0.5)), url('img/pexels-sebastian-arie-voortman-214575.jpg');
+        background: linear-gradient(rgb(0, 0, 0, 0.5), rgb(0, 0, 0, 0.5)), url('img/header-image.jpg');
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
